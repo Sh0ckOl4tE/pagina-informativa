@@ -38,20 +38,12 @@ web-mac-miller/
 - Rosa pálido: `#f5c6c6`
 - Gris suave: `#d6d6d6`
 
----
-
 ## Funcionalidades destacadas
 
 -  Navegación por secciones con `nav`.
 -  Efecto `fade-in` suave al hacer scroll (Intersection Observer).
 -  Fondo dinámico que cambia según la sección.
 -  Formulario funcional que muestra un mensaje personalizado.
-
-## Enlaces
-
-- **Repositorio GitHub (privado)**: [acceso otorgado al profesor]
-- **Página publicada con GitHub Pages**:  
-  [https://TU_USUARIO.github.io/NOMBRE_DEL_REPO](https://TU_USUARIO.github.io/NOMBRE_DEL_REPO)
 
 ## Validación
 
